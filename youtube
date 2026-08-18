@@ -1,0 +1,48 @@
+# Title: YouTube blocklist hosts file
+#
+# Purpose: Block YouTube (web, mobile app, embeds, CDN, API) at DNS/hosts level
+# Generated: 18 Aug 2026 07:30:13 (UTC)
+# Number of domains: 32
+#
+# NOTE: googlevideo.com and *.ytimg.com serve content from dynamically
+# rotating per-session subdomains (e.g. rr3---sn-xxxx.googlevideo.com).
+# A hosts file cannot wildcard-match these, so blocking the base domain
+# 'googlevideo.com' here only helps if your resolver/router also blocks
+# on TLS SNI wildcard (*.googlevideo.com) at the firewall level, as set
+# up earlier on your MikroTik. Use this file as a first-layer block and
+# keep the tls-host / DNS regex rules as the real enforcement layer.
+#
+# ===============================================================
+
+0.0.0.0 accountlinking-pa-clients6.youtube.com
+0.0.0.0 accounts.youtube.com
+0.0.0.0 admin.youtube.com
+0.0.0.0 ads.youtube.com
+0.0.0.0 analytics.youtube.com
+0.0.0.0 apiblog.youtube.com
+0.0.0.0 app.youtube.com
+0.0.0.0 artists.youtube.com
+0.0.0.0 au.youtube.com
+0.0.0.0 br.youtube.com
+0.0.0.0 gaming.youtube.com
+0.0.0.0 googlevideo.com
+0.0.0.0 i.ytimg.com
+0.0.0.0 kids.youtube.com
+0.0.0.0 m.au.youtube.com
+0.0.0.0 m.youtube.com
+0.0.0.0 music.youtube.com
+0.0.0.0 s.ytimg.com
+0.0.0.0 s2.youtube.com
+0.0.0.0 studio.youtube.com
+0.0.0.0 tv.youtube.com
+0.0.0.0 wide.youtube.com
+0.0.0.0 www.youtube-nocookie.com
+0.0.0.0 www.youtube.com
+0.0.0.0 youtube-nocookie.com
+0.0.0.0 youtube-ui.l.google.com
+0.0.0.0 youtube.com
+0.0.0.0 youtubeembeddedplayer.googleapis.com
+0.0.0.0 youtubei.googleapis.com
+0.0.0.0 yt3.ggpht.com
+0.0.0.0 yt3.googleusercontent.com
+0.0.0.0 ytimg.l.google.com
