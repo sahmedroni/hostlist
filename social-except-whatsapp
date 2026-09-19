@@ -91343,8 +91343,12 @@ ff02::3 ip6-allhosts
 0.0.0.0 zh-cn.facebook.com
 0.0.0.0 zh-hk.facebook.com
 0.0.0.0 zh-tw.facebook.com
+0.0.0.0 b32ae4b2-68a1-4870-a39b-8cb53bf5c97d-netseer-ipaddr-assoc.xy.fbcdn.net
 
 # Instagram
+0.0.0.0 instagram.fdac177-2.fna.fbcdn.net
+0.0.0.0 instagram.fdac177-1.fna.fbcdn.net
+0.0.0.0 instagram.fdac154-1.fna.fbcdn.net
 0.0.0.0 instagram.fdac177-2.fna.fbcdn.net
 0.0.0.0 instagram.fdac177-2.fna.fbcdn.net
 0.0.0.0 instagram.fzyl2-2.fna.fbcdn.net
