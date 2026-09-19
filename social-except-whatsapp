@@ -92715,6 +92715,11 @@ ff02::3 ip6-allhosts
 # Updated: May 15, 2026
 
 # Facebook
+0.0.0.0 edge-mqtt.facebook.com
+0.0.0.0 mobile-fallback.facebook.com
+0.0.0.0 chat-e2ee-mini-fallback.facebook.com
+0.0.0.0 traffic-nts-ip-assoc.xz.fbcdn.net
+0.0.0.0 www.facebook.com
 0.0.0.0 accountscenter.facebook.com
 0.0.0.0 adsmanager.intern.facebook.com
 0.0.0.0 adsmanager.trunkstable.facebook.com
