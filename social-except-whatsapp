@@ -2899,6 +2899,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 bdapi-ads.realmemobile.com
 0.0.0.0 bdapi-in-ads.realmemobile.com
 0.0.0.0 v9.tiktokcdn.com
+0.0.0.0 v9e.tiktokcdn.com
 
 # Added July 3, 2025
 0.0.0.0 my-tracknl.com
