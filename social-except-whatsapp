@@ -91345,6 +91345,14 @@ ff02::3 ip6-allhosts
 0.0.0.0 zh-tw.facebook.com
 
 # Instagram
+0.0.0.0 instagram.fdac177-2.fna.fbcdn.net
+0.0.0.0 instagram.fdac177-2.fna.fbcdn.net
+0.0.0.0 instagram.fzyl2-2.fna.fbcdn.net
+0.0.0.0 instagram.fdac177-1.fna.fbcdn.net
+0.0.0.0 instagram.fdac154-1.fna.fbcdn.net
+0.0.0.0 instagram.fzyl2-1.fna.fbcdn.net
+0.0.0.0 scontent-ccu2-2.cdninstagram.com
+0.0.0.0 edec16fe-34e4-4925-a231-6b55cb86eda9-netseer-ipaddr-assoc.xz.fbcdn.net
 0.0.0.0 a.ns.cdninstagram.com
 0.0.0.0 api.instagram.com
 0.0.0.0 b.ns.cdninstagram.com
