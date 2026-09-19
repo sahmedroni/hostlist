@@ -7538,6 +7538,7 @@ ff02::3 ip6-allhosts
 # [facebook.com]
 0.0.0.0 an.facebook.com
 0.0.0.0 pixel.facebook.com
+0.0.0.0 fed6e226-d88e-4b80-a24b-ec7f0a78e65f-netseer-ipaddr-assoc.xy.fbcdn.net
 
 # [fam-ad.com]
 0.0.0.0 fam-ad.com
